@@ -1,9 +1,9 @@
 # PowerToys for OpenAI ™
 ### Get results like ChatGPT Plus directly integrated in your browser
 
-👉 **[Docs](https://github.com/robert-hoffmann/PowerToys4OpenAI/wiki/Docs)**
-👉 **[Issues](https://github.com/robert-hoffmann/PowerToys4OpenAI/issues)**
-👉 **[Roadmap](https://github.com/users/robert-hoffmann/projects/1/views/1)**
+- **[Docs](https://github.com/robert-hoffmann/PowerToys4OpenAI/wiki/Docs)**
+- **[Issues](https://github.com/robert-hoffmann/PowerToys4OpenAI/issues)**
+- **[Roadmap](https://github.com/users/robert-hoffmann/projects/1/views/1)**
 
 Install on Edge | Install on Chrome
 --- | ---
