@@ -11,4 +11,4 @@ Install on Edge | Install on Chrome
 
 ### Screenshot
 
-![image](https://user-images.githubusercontent.com/5472296/225244827-bed1a077-82f0-490f-852f-ff6ef944aef1.png)
+[![image](https://user-images.githubusercontent.com/5472296/225244827-bed1a077-82f0-490f-852f-ff6ef944aef1.png)](https://powertoys.i-technology.net/)
