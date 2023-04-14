@@ -3,7 +3,6 @@
 
 - **[Docs](https://github.com/robert-hoffmann/PowerToys4OpenAI/wiki/Docs)**
 - **[Issues](https://github.com/robert-hoffmann/PowerToys4OpenAI/issues)**
-- **[Work in progress](https://github.com/users/robert-hoffmann/projects/1/views/2)**
 
 Install on Edge | Install on Chrome
 --- | ---
