@@ -4,7 +4,8 @@
 #### Everything is self hosted on your machine
 #### No server needed and no third party plug-ins
 
-- **[Installation Docs](https://github.com/robert-hoffmann/PowerToys4OpenAI/wiki/Docs)**
+- **[Docs](https://github.com/robert-hoffmann/PowerToys4OpenAI/wiki/Docs)**
+  - Installation & Troubleshooting (Chrome, Edge, Opera)
 - **[Issues](https://github.com/robert-hoffmann/PowerToys4OpenAI/issues)**
 
 Install on Edge | Install on Chrome
