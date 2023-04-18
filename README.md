@@ -1,7 +1,9 @@
-# PowerToys for OpenAI ™
-### Get results like ChatGPT Plus directly integrated in your browser
+# PowerToys for OpenAI™
+### Integrate ChatGPT directly into your browser
+#### Everything is self hosted on your machine
+#### No server needed and no third party plug-ins
 
-- **[Docs](https://github.com/robert-hoffmann/PowerToys4OpenAI/wiki/Docs)**
+- **[Installation Docs](https://github.com/robert-hoffmann/PowerToys4OpenAI/wiki/Docs)**
 - **[Issues](https://github.com/robert-hoffmann/PowerToys4OpenAI/issues)**
 
 Install on Edge | Install on Chrome
@@ -17,4 +19,3 @@ External links
 - **[Twitter](https://twitter.com/itechnologynet)**
 - **[Product Hunt](https://www.producthunt.com/products/powertoys-for-openai)**
 - **[YouTube](https://www.youtube.com/@itechnologynet)**
-- **[Website](https://powertoys.i-technology.net)**
