@@ -1,4 +1,5 @@
 # PowerToys for OpenAI™
+
 ### Integrate ChatGPT directly into your browser
 #### Everything is self hosted on your machine
 #### No server needed and no third party plug-ins
