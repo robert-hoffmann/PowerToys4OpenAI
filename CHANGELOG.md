@@ -1,6 +1,7 @@
 ## Version: 0.2.1 (not yet released)
 * Click to edit. You can now change the title of a saved conversation (new)
-* Added speech to text, you can use the spacebar to toggle it (new)
+* Added speech to text, you can use ctrl+spacebar to toggle it (new)
+* Added keyboard shortcut to open conversation manager with alt+p (new)
 
 ## Version: 0.2.0
 * Added support for multiple profiles: prompt engineering (new)
