@@ -1,4 +1,8 @@
-## Version: 0.2.0
+## Version: 0.2.1 (not yet released)
+* Click to edit. You can now change the title of a saved conversation (new)
+* Added speech to text, you can use the spacebar to toggle it (new)
+
+## Version: 0.2.0 (awaiting store validation)
 * Added support for multiple profiles: prompt engineering (new)
 * Fixed scrolling in conversation panel (fix)
 * Fixed side menu from disappearing (fix)
