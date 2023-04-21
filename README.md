@@ -4,6 +4,7 @@
 #### Lightning fast
 * Everything is self hosted/stored on your machine
 * No server needed, and no third party plug-ins
+* Automatic updates
 ---
 - **[Installation & Troubleshooting (Chrome, Edge, Opera)](https://github.com/robert-hoffmann/PowerToys4OpenAI/wiki/Docs)**
 - **[Issues](https://github.com/robert-hoffmann/PowerToys4OpenAI/issues)**
