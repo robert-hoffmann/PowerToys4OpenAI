@@ -16,7 +16,7 @@ Install on Edge | Install on Chrome
 ### Screenshot (click to watch intro video)
 <a href="https://youtu.be/XQdmyRdIgy8" title="Watch the into video" target="_blank"/><img src="https://user-images.githubusercontent.com/5472296/225244827-bed1a077-82f0-490f-852f-ff6ef944aef1.png" width="90%"></a>
 
-#### Intended for the power users in the office (who just wanna get stuff done)
+#### Intended for the power user in the office (who just want's to get stuff done)
 
 * Search Companion is integrated with search engine results
 * Conversation Manager is a full chat interface with history management
