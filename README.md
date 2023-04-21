@@ -30,5 +30,4 @@ Install on Edge | Install on Chrome
 #### External links
 
 * **[Twitter](https://twitter.com/itechnologynet)**
-* **[Product Hunt](https://www.producthunt.com/products/powertoys-for-openai)**
 * **[YouTube](https://www.youtube.com/@itechnologynet)**
