@@ -1,6 +1,9 @@
-## Version: 0.2.1 (not yet released)
+## Version: 0.2.2
+* Fixed a problem where the search companion would not be properly displayed (fix)
+
+## Version: 0.2.1
 * Click to edit. You can now change the title of a saved conversation (new)
-* Added speech to text, you can use ctrl+spacebar to toggle it (new)
+* Added speech recognition, you can use ctrl+spacebar to toggle it (new)
 * Added keyboard shortcut to open conversation manager with alt+c (new)
 
 ## Version: 0.2.0
