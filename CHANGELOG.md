@@ -1,5 +1,7 @@
 ## Version: 0.2.2
 * Fixed a problem where the search companion would not be properly displayed (fix)
+* Move notifications to bottom right (enhancement)
+* Scroll to bottom after adding user input (fix)
 
 ## Version: 0.2.1
 * Click to edit. You can now change the title of a saved conversation (new)
