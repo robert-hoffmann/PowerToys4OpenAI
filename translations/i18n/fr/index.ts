@@ -1,13 +1,13 @@
 export default {
   translation: {
     messages: {
-      hello            : 'Bonjour {{name}}',
       copiedToClipBoard: 'Contenu copié dans le presse-papier',
     },
     ui: {
       me         : 'moi',
       save       : 'Enregistrer',
       close      : 'Fermer',
+      edit       : 'Modifier',
       play       : 'Jouer',
       record     : 'Enregistrer',
       import     : 'Importer',
@@ -38,6 +38,10 @@ export default {
       conversations: {
         title           : 'Conversations',
         newConversation : 'Nouvelle conversation',
+        sttHint         : 'Vous pouvez l\'activer/désactiver avec CTRL+Espace',
+        sttOn           : 'Reconnaissance Vocale: Activée',
+        sttOff          : 'Reconnaissance Vocale: Désactivée',
+        inputHint       : 'Vous pouvez valider avec CTRL+Entrée, ou utiliser la reconnaissance vocale avec CTRL+Espace',
       },
       profiles: {
         title         : 'Profils',
@@ -45,7 +49,7 @@ export default {
         selectProfile : 'Sélectionner un profil',
         upload        : 'Charger',
         cancel        : 'Annuler',
-        selected      : 'Profil ({{name}}) est maintenant actif pour les nouvelles conversations',
+        selected      : 'Profil Actif: {{name}}'
       },
       settings: {
         settings   : 'Paramètres',
