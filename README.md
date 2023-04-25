@@ -1,6 +1,6 @@
 # PowerToys for OpenAI™ (donationware)
 
-### For the power-user in the office, who just want's to get stuff done
+### For the power-user in the office, who just wants to get stuff done
 #### Lightning fast
 * Everything is self hosted/stored on your machine
 * No server needed, and no third party plug-ins
