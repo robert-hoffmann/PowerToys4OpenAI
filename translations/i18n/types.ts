@@ -1,12 +1,12 @@
 export const translation = {
   messages: {
-    hello            : 'messages.hello',
     copiedToClipBoard: 'messages.copiedToClipBoard',
   },
   ui: {
     me         : 'ui.me',
     save       : 'ui.save',
     close      : 'ui.close',
+    edit       : 'ui.edit',
     play       : 'ui.play',
     record     : 'ui.record',
     import     : 'ui.import',
@@ -36,7 +36,11 @@ export const translation = {
   components: {
     conversations: {
       title           : 'components.conversations.title',
-      newConversation : 'components.conversations.newConversation'
+      newConversation : 'components.conversations.newConversation',
+      sttHint         : 'components.conversations.sttHint',
+      sttOn           : 'components.conversations.sttOn',
+      sttOff          : 'components.conversations.sttOff',
+      inputHint       : 'components.conversations.inputHint',
     },
     profiles: {
       title        : 'components.profiles.title',
