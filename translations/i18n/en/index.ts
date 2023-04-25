@@ -1,13 +1,13 @@
 export default {
   translation: {
     messages: {
-      hello            : 'Hi {{name}}',
       copiedToClipBoard: 'Content copied to clip-board',
     },
     ui: {
       me         : 'me',
       save       : 'Save',
       close      : 'Close',
+      edit       : 'Edit',
       play       : 'Play',
       record     : 'Record',
       import     : 'Import',
@@ -38,6 +38,10 @@ export default {
       conversations: {
         title           : 'Conversations',
         newConversation : 'New conversation',
+        sttHint         : 'Toggle listening with CTRL+SpaceBar',
+        sttOn           : 'Speech Recognition: Activated',
+        sttOff          : 'Speech Recognition: Deactivated',
+        inputHint       : 'You can validate with CTRL+Enter, or use speech recognition with CTRL+SpaceBar',
       },
       profiles: {
         title        : 'Profiles',
@@ -45,7 +49,7 @@ export default {
         selectProfile: 'Select a profile',
         upload       : 'Upload',
         cancel       : 'Cancel',
-        selected     : 'Profile ({{name}}) is now active for new conversations'
+        selected     : 'Active Profile: {{name}}'
 
       },
       settings: {
