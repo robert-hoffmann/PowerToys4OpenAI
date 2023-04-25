@@ -43,8 +43,7 @@ Get from Edge Store | Get from Chrome Store
 </table>
 
 
-#### Intended for the power user in the office (who just wants to get stuff done)
-
+#### Features
 * Search Companion is integrated with search engine results
 * Conversation Manager is a full chat interface with history management
 * Profile manager lets you fine tune the model's response type
