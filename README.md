@@ -47,6 +47,7 @@ Get from Edge Store | Get from Chrome Store
 * Search Companion is integrated with search engine results
 * Conversation Manager is a full chat interface with history management
 * Profile manager lets you fine tune the model's response type
+* Import/Export profiles in JSON
 * See token count
 * See conversation pricing
 * Copy results to clipboard
