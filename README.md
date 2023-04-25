@@ -28,6 +28,8 @@ Get from Edge Store | Get from Chrome Store
 * Markdown rendering support
 * Speech recognition support
 
+**[RoadMap](https://github.com/robert-hoffmann/PowerToys4OpenAI/wiki/RoadMap)**
+
 #### External links
 
 * **[Twitter](https://twitter.com/itechnologynet)**
