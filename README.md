@@ -1,4 +1,4 @@
-# PowerToys for OpenAI™ (free/donationware)
+# PowerToys for OpenAI™ (donationware)
 
 ### ChatGPT integrated directly into your browser
 #### Lightning fast
