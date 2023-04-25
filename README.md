@@ -1,6 +1,6 @@
 # PowerToys for OpenAI™ (donationware)
 
-### ChatGPT integrated directly into your browser
+### For the power-user in the office, who just want's to get things done
 #### Lightning fast
 * Everything is self hosted/stored on your machine
 * No server needed, and no third party plug-ins
