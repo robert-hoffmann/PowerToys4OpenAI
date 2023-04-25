@@ -1,4 +1,4 @@
-# PowerToys for OpenAI™
+# PowerToys for OpenAI™ (free/donationware)
 
 ### ChatGPT integrated directly into your browser
 #### Lightning fast
@@ -8,6 +8,7 @@
 ---
 - **[Installation & Troubleshooting (Chrome, Edge, Opera)](https://github.com/robert-hoffmann/PowerToys4OpenAI/wiki/Docs)**
 - **[Issues](https://github.com/robert-hoffmann/PowerToys4OpenAI/issues)**
+- **[RoadMap](https://github.com/robert-hoffmann/PowerToys4OpenAI/wiki/RoadMap)**
 ---
 Get from Edge Store | Get from Chrome Store
 --- | ---
