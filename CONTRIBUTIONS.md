@@ -1,9 +1,9 @@
 **You can contribute by**
 
-* Translating to other languages
-* Filing bug issues
-* Sharing on twitter, in newsletters, or other
+* [Translating to other languages](translations#readme)
+* [Filing bug issues](https://github.com/robert-hoffmann/PowerToys4OpenAI/issues)
+* Sharing on social media, in newsletters, or other
 * Making a donation to support further development 
 
 
-*I'm availiable via Twitter & LinkedIn*
+*I'm availiable via [Twitter](https://twitter.com/itechnologynet) & [LinkedIn](https://www.linkedin.com/in/hoffmannrobert)*
