@@ -1,6 +1,4 @@
-### Contributions
-
-You can contribute by
+**You can contribute by**
 
 * Translating to other languages
 * Filing bug issues
@@ -8,4 +6,4 @@ You can contribute by
 * Making a donation to support further development 
 
 
-I'm availiable via Twitter & LinkedIn
+*I'm availiable via Twitter & LinkedIn*
