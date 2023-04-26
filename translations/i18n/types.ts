@@ -1,59 +1,66 @@
 export const translation = {
-  messages: {
-    copiedToClipBoard: 'messages.copiedToClipBoard',
-  },
-  ui: {
-    me         : 'ui.me',
-    save       : 'ui.save',
-    close      : 'ui.close',
-    edit       : 'ui.edit',
-    play       : 'ui.play',
-    record     : 'ui.record',
-    import     : 'ui.import',
-    export     : 'ui.export',
-    cancel     : 'ui.cancel',
-    delete     : 'ui.delete',
-    missing    : 'ui.missing',
-    search     : 'ui.search',
-    searchHint : 'ui.searchHint',
-    welcome    : 'ui.welcome',
-    authError  : 'ui.authError',
-    comingSoon : 'ui.comingSoon',
-    donate     : 'ui.donate',
-    donateCopy : 'ui.donateCopy'
-  },
-  searchCompanion: {
-    title      : 'searchCompanion.title',
-    login      : 'searchCompanion.login',
-    retry      : 'searchCompanion.retry',
-    search     : 'searchCompanion.search',
-    searchHint : 'searchCompanion.searchHint',
-    settings   : 'searchCompanion.settings',
-    clear      : 'searchCompanion.clear',
-    copy       : 'searchCompanion.copy',
-    cancel     : 'searchCompanion.cancel'
+  global: {
+    save              : 'global.save',
+    close             : 'global.close',
+    edit              : 'global.edit',
+    play              : 'global.play',
+    record            : 'global.record',
+    import            : 'global.import',
+    export            : 'global.export',
+    upload            : 'global.upload',
+    cancel            : 'global.cancel',
+    delete            : 'global.delete',
+    retry             : 'global.retry',
+    missing           : 'global.missing',
+    settings          : 'global.settings',
+    search            : 'global.search',
+    searchHint        : 'global.searchHint',
+    authError         : 'global.authError',
+    comingSoon        : 'global.comingSoon',
+    donate            : 'global.donate',
+    donateCopy        : 'global.donateCopy',
+    copiedToClipBoard : 'global.copiedToClipBoard',
   },
   components: {
+    searchCompanion: {
+      login      : 'components.searchCompanion.login',
+      search     : 'components.searchCompanion.search',
+      searchHint : 'components.searchCompanion.searchHint',
+      clear      : 'components.searchCompanion.clear',
+      copy       : 'components.searchCompanion.copy',
+    },
     conversations: {
+      me              : 'components.conversations.me',
+      welcome         : 'components.conversations.welcome',
       title           : 'components.conversations.title',
       newConversation : 'components.conversations.newConversation',
       sttHint         : 'components.conversations.sttHint',
       sttOn           : 'components.conversations.sttOn',
       sttOff          : 'components.conversations.sttOff',
       inputHint       : 'components.conversations.inputHint',
+      wordCount       : 'components.conversations.wordCount',
     },
     profiles: {
       title        : 'components.profiles.title',
       newProfile   : 'components.profiles.newProfile',
       selectProfile: 'components.profiles.selectProfile',
-      upload       : 'components.profiles.upload',
-      cancel       : 'components.profiles.cancel',
       selected     : 'components.profiles.selected'
     },
     settings: {
-      settings   : 'components.settings.settings',
-      general    : 'components.settings.general',
-      global     : 'components.settings.global'
+      general : 'components.settings.general',
+      global  : 'components.settings.global'
+    },
+    searchSettings: {
+      interfaceLanguage       : 'components.searchSettings.interfaceLanguage',
+      triggerModeTitle        : 'components.searchSettings.triggerModeTitle',
+      triggerModeManual       : 'components.searchSettings.triggerModeManual',
+      triggerModeManualHint   : 'components.searchSettings.triggerModeManualHint',
+      triggerModeQuestion     : 'components.searchSettings.triggerModeQuestion',
+      triggerModeQuestionHint : 'components.searchSettings.triggerModeQuestionHint',
+      triggerModeAuto         : 'components.searchSettings.triggerModeAuto',
+      triggerModeAutoHint     : 'components.searchSettings.triggerModeAutoHint',
+      apiKeyTitle             : 'components.searchSettings.apiKeyTitle',
+      apiKeyHint              : 'components.searchSettings.apiKeyHint'
     }
   },
   pages : {
@@ -65,36 +72,4 @@ export const translation = {
       prompt      : 'pages.profiles.prompt',
     }
   },
-  help: {
-    intro1        : 'help.intro1',
-    intro2        : 'help.intro2',
-    intro3        : 'help.intro3',
-    step1Title    : 'help.step1Title',
-    step1Content1 : 'help.step1Content1',
-    step2Title    : 'help.step2Title',
-    step2Content1 : 'help.step2Content1',
-    step2Content2 : 'help.step2Content2',
-    step2Content3 : 'help.step2Content3',
-    step3Title    : 'help.step3Title',
-    step3Content1 : 'help.step3Content1',
-    step3Content2 : 'help.step3Content2',
-    stepperNext   : 'help.stepperNext',
-    stepperBack   : 'help.stepperBack',
-    stepperFinish : 'help.stepperFinish'
-  },
-  settings: {
-    searchCompanion: {
-      title                   : 'settings.searchCompanion.title',
-      interfaceLanguage       : 'settings.searchCompanion.interfaceLanguage',
-      triggerModeTitle        : 'settings.searchCompanion.triggerModeTitle',
-      triggerModeManual       : 'settings.searchCompanion.triggerModeManual',
-      triggerModeManualHint   : 'settings.searchCompanion.triggerModeManualHint',
-      triggerModeQuestion     : 'settings.searchCompanion.triggerModeQuestion',
-      triggerModeQuestionHint : 'settings.searchCompanion.triggerModeQuestionHint',
-      triggerModeAuto         : 'settings.searchCompanion.triggerModeAuto',
-      triggerModeAutoHint     : 'settings.searchCompanion.triggerModeAutoHint',
-      apiKeyTitle             : 'settings.searchCompanion.apiKeyTitle',
-      apiKeyHint              : 'settings.searchCompanion.apiKeyHint'
-    }
-  }
 };
