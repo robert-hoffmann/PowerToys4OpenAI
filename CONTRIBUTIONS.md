@@ -1,7 +1,7 @@
 **You can contribute by**
 
 * [Translating to other languages](translations#readme)
-* [Filing bug issues](https://github.com/robert-hoffmann/PowerToys4OpenAI/issues)
+* [Filing bug issues](https://github.com/robert-hoffmann/PowerToys4OpenAI/issues) or [providing feedback in discussions](https://github.com/robert-hoffmann/PowerToys4OpenAI//discussions)
 * Sharing on social media, in newsletters, or other
 * Making a donation to support further development 
 
