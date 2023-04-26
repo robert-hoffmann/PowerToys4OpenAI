@@ -10,4 +10,4 @@
 
 
 ---
-*For the curious, this was made with [VueJS](https://vuejs.org/) & [Quasar](https://quasar.dev/) for the UI, and [Dexie](org) for the data handling*
+*For the curious, this was made with [VueJS](https://vuejs.org/) & [Quasar](https://quasar.dev/) for the UI, and [Dexie](https://dexie.org/) for the data handling*
