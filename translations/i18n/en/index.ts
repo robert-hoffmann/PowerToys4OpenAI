@@ -1,6 +1,8 @@
 export default {
   translation: {
     global: {
+      yes               : 'Yes',
+      no                : 'No',
       save              : 'Save',
       close             : 'Close',
       edit              : 'Edit',
@@ -59,6 +61,7 @@ export default {
     },
     searchSettings: {
       interfaceLanguage       : 'Interface language',
+      showSidebarOnAllSites   : 'Show sidebar on all sites',
       triggerModeTitle        : 'Trigger Mode',
       triggerModeManual       : 'Manual',
       triggerModeManualHint   : 'Only trigger search on manual click',
