@@ -1,6 +1,8 @@
 export default {
   translation: {
     global: {
+      yes               : 'Oui',
+      no                : 'Non',
       save              : 'Enregistrer',
       close             : 'Fermer',
       edit              : 'Modifier',
@@ -58,6 +60,7 @@ export default {
     },
     searchSettings: {
       interfaceLanguage       : 'Langue de l\'interface',
+      showSidebarOnAllSites   : 'Afficher la barre latérale sur tous les sites',
       triggerModeTitle        : 'Mode de déclenchement',
       triggerModeManual       : 'Manuel',
       triggerModeManualHint   : 'Déclenchement uniquement sur clic manuel',
