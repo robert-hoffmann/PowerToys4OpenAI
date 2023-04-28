@@ -10,4 +10,6 @@
 
 
 ---
-*For the curious, this was made with [VueJS](https://vuejs.org/) & [Quasar](https://quasar.dev/introduction-to-quasar) for the UI, and [Dexie](https://dexie.org/) for local database handling*
+**For the curious**
+
+*This was made with [VueJS](https://vuejs.org/) & [Quasar](https://quasar.dev/introduction-to-quasar) for the UI, [Dexie](https://dexie.org/) for local database handling, [TypeScript](https://www.typescriptlang.org/) for logic handling, and [VueUse](https://vueuse.org/) for certain features*
