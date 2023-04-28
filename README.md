@@ -42,6 +42,7 @@ Get from Edge Store | Get from Chrome Store
   </tr>
 </table>
 
+---
 
 #### Features
 * Search Companion is integrated with search engine results
@@ -54,7 +55,12 @@ Get from Edge Store | Get from Chrome Store
 * Markdown rendering support
 * Speech recognition support
 
-**[RoadMap](https://github.com/robert-hoffmann/PowerToys4OpenAI/wiki/RoadMap)**
+---
+
+* **[RoadMap](https://github.com/robert-hoffmann/PowerToys4OpenAI/wiki/RoadMap)**
+* **[Contribute](CONTRIBUTIONS.md)**
+
+---
 
 #### External links
 
