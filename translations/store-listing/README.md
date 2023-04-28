@@ -1,1 +1,3 @@
-These are the translations used in the sore listing, which must also be translated
+These are the translations used in the store listing (full description)
+
+[See here for the translations for the extension (name, title, short description](/translations/store-listing)
