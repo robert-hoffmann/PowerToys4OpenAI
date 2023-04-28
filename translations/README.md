@@ -7,7 +7,9 @@
 
 #### To add a translation, you must
 
+* Fork the project
 * Duplicate one of the existing folders, for example copy en/* to de/*
 * Translate all entries to the new language
+* Make a pull request
 
 *types.ts should not need to be touched, unless adding new entries*
