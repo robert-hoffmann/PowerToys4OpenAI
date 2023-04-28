@@ -1,0 +1,27 @@
+PowerToys for OpenAI ™ provides ChatGPT functionality through the official OpenAI™ API
+
+Is intended for power users in the office
+
+* Search Companion is integrated with search engine results
+* Conversation Manager is a full chat interface with history management
+* Profile manager lets you fine tune the model's response type
+* See token count
+* See conversation pricing
+* Copy results to clipboard
+* Markdown rendering support
+* Speech recognition support
+* ... and more to come ;-)
+
+It's optimized for speed, by running locally in your browser
+(no server costs)
+
+The use of this extension will require having your own API key, which can be directly obtained from OpenAI by registering and visiting their developer dashboard.
+
+Manage your API keys by visiting:
+https://platform.openai.com/account/api-keys
+
+Pricing is around $0.002 per 750 words, or $1 for the equivalent content of a book of 1000 pages (for the gpt-3.5-turbo model)
+
+-----------
+Stay tuned:
+https://twitter.com/itechnologynet
