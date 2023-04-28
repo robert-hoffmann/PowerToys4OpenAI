@@ -1,3 +1,3 @@
-This contains the translation for the store listing, but specific to the extension itself
+This contains the translation for the store listing, but specific to the extension itself (name, title, short description)
 
-[See here for the trahnslations for the lising description](/translations/store-listing)
+[See here for the translations for the listing description](/translations/store-listing)
