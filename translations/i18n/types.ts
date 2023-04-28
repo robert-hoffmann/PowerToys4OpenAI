@@ -1,5 +1,7 @@
 export const translation = {
   global: {
+    yes               : 'global.yes',
+    no                : 'global.no',
     save              : 'global.save',
     close             : 'global.close',
     edit              : 'global.edit',
@@ -22,6 +24,7 @@ export const translation = {
     copiedToClipBoard : 'global.copiedToClipBoard',
   },
   searchCompanion: {
+    title      : 'searchCompanion.title',
     login      : 'searchCompanion.login',
     search     : 'searchCompanion.search',
     searchHint : 'searchCompanion.searchHint',
@@ -56,6 +59,7 @@ export const translation = {
   },
   searchSettings: {
     interfaceLanguage       : 'searchSettings.interfaceLanguage',
+    showSidebarOnAllSites   : 'searchSettings.showSidebarOnAllSites',
     triggerModeTitle        : 'searchSettings.triggerModeTitle',
     triggerModeManual       : 'searchSettings.triggerModeManual',
     triggerModeManualHint   : 'searchSettings.triggerModeManualHint',
