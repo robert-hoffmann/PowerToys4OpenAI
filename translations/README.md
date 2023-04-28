@@ -3,6 +3,7 @@
 * i18n/en/index.ts contains all the english translations
 * i18n/fr/index.ts contains all the french translations
 * i18n/types.ts is used in the application to provide **strongly typed** translations, instead of using *magic strings*
+* store-listing contains the translations for the app store
 
 
 #### To add a translation, you must
