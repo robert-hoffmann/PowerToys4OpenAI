@@ -1,0 +1,76 @@
+export default {
+  translation: {
+    global: {
+      yes               : 'Да',
+      no                : 'Нет',
+      save              : 'Сохранить',
+      close             : 'Закрыть',
+      edit              : 'Править',
+      play              : 'Слушать',
+      record            : 'Запись',
+      import            : 'Импорт',
+      export            : 'Экспорт',
+      upload            : 'Закачка',
+      cancel            : 'Отмена',
+      delete            : 'Удалить',
+      retry             : 'Повторить',
+      missing           : 'отсутствует',
+      settings          : 'Настройки',
+      search            : 'Введи вопрос',
+      searchHint        : 'Или раскрой тему',
+      authError         : 'Что-то не так с аутентификацией, проверьте свой API ключ.',
+      comingSoon        : 'скоро',
+      donate            : 'Пожертвовать {{name}}',
+      donateCopy        : '{{name}} адрес скопирован в буфер обмена',
+      copiedToClipBoard : 'Содержимое скопировано в буфер обмена',
+    },
+    searchCompanion: {
+      title      : 'Поисковый компаньон',
+      login      : 'Логин',
+      search     : 'Поиск',
+      searchHint : 'Развернуть тему',
+      clear      : 'Очистить историю разговоря',
+      copy       : 'Скопировать результат',
+    },
+    conversations: {
+      me              : 'Я',
+      welcome         : 'Привет, чем могу вам помочь?',
+      title           : 'Диалоги',
+      newConversation : 'Новый диалог',
+      sttHint         : 'Переключить диктовку по CTRL+SpaceBar',
+      sttOn           : 'Диктовка: активна',
+      sttOff          : 'Диктовка: неактивна',
+      inputHint       : 'Можно отправить по CTRL+Enter, или воспользоваться диктовкой по CTRL+SpaceBar',
+      wordCount       : 'Всего слов',
+    },
+    profiles: {
+      title         : 'Профили',
+      newProfile    : 'Новый профиль',
+      selectProfile : 'Выбрать профиль',
+      selected      : 'Текущий профиль: {{name}}',
+      name          : 'Подпись',
+      active        : 'Активен',
+      tags          : 'Тэги',
+      description   : 'Описание',
+      prompt        : 'Системная затравка',
+
+    },
+    settings: {
+      general : 'Общие',
+      global  : 'Глобальные настройки'
+    },
+    searchSettings: {
+      interfaceLanguage       : 'Язык интерфейса',
+      showSidebarOnAllSites   : 'Показывать боковую панель на сайтах',
+      triggerModeTitle        : 'Режим срабатывания',
+      triggerModeManual       : 'По требованию',
+      triggerModeManualHint   : 'Только, когда пользователь самостоятельно отправляет запрос',
+      triggerModeQuestion     : 'По знаку вопроса',
+      triggerModeQuestionHint : 'Отправляет, если предложение оканчивается на "?"',
+      triggerModeAuto         : 'Автоматически',
+      triggerModeAutoHint     : 'Регулярно опрашивать поиск',
+      apiKeyTitle             : 'API Ключ',
+      apiKeyHint              : 'Ваш ключ OpenAI API'
+    }
+  }
+};
