@@ -14,4 +14,4 @@
 * Translate all entries to the new language
 * Make a pull request
 
-*types.ts should not need to be touched, unless adding new entries*
+_**i18n/types.ts should not need to be touched, unless adding new entries**_
