@@ -6,6 +6,7 @@ export default {
       save              : 'Save',
       close             : 'Close',
       edit              : 'Edit',
+      copy              : 'Copy',
       play              : 'Play',
       record            : 'Record',
       import            : 'Import',
@@ -18,7 +19,7 @@ export default {
       settings          : 'Settings',
       search            : 'Ask a question',
       searchHint        : 'Or expand on a topic',
-      authError         : 'Sorry, something went wrong with authentication, please check your API key',
+      authError         : 'Error: {{statusCode}}\n\nSorry, something went wrong with authentication, please check your API key & model',
       comingSoon        : 'coming soon',
       donate            : 'Donate {{name}}',
       donateCopy        : '{{name}} address copied to clipboard',
@@ -26,11 +27,9 @@ export default {
     },
     searchCompanion: {
       title      : 'Search Companion',
-      login      : 'Login',
       search     : 'Search',
       searchHint : 'Expand on this topic',
       clear      : 'Clear conversation history',
-      copy       : 'Copy the result',
     },
     conversations: {
       me              : 'me',
@@ -70,7 +69,8 @@ export default {
       triggerModeAuto         : 'Automatic',
       triggerModeAutoHint     : 'Systematically query the search engine',
       apiKeyTitle             : 'API Key',
-      apiKeyHint              : 'Your OpenAI API key'
+      apiKeyHint              : 'Your OpenAI API key',
+      model                   : 'Model',
     }
   }
 };

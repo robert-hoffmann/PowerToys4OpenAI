@@ -1,0 +1,28 @@
+PowerToys for OpenAI ™ proporciona la funcionalidad ChatGPT a través de la API oficial de OpenAI ™
+
+Está destinado a usuarios avanzados en la oficina.
+
+* El buscador compañero está integrado con los resultados del motor de búsqueda
+* El Administrador de conversaciones es una interfaz de chat completa con gestión de historial
+* El Administrador de perfiles le permite ajustar el tipo de respuesta del modelo
+* Ver conteo de token
+* Ver precios de conversación
+* Copiar resultados al portapapeles
+* Soporte de representación Markdown
+* Soporte de reconocimiento de voz
+* ... ¡y más por venir! ;-)
+
+Está optimizado para la velocidad, al ejecutarse localmente en su navegador
+(sin costos de servidor)
+
+El uso de esta extensión requerirá tener su propia clave API, que se puede obtener directamente de OpenAI mediante el registro y la visita del panel de desarrollo del desarrollador
+
+Administre sus claves API visitando:
+https://platform.openai.com/account/api-keys
+
+El precio es de alrededor de $ 0.002 por 750 palabras, o $ 1 por el contenido equivalente a un libro de 1000 páginas
+(para el modelo gpt-3.5-turbo)
+
+-----------
+Manténgase en sintonía:
+https://twitter.com/itechnologynet

@@ -6,6 +6,7 @@ export default {
       save              : 'Enregistrer',
       close             : 'Fermer',
       edit              : 'Modifier',
+      copy              : 'Copier',
       play              : 'Jouer',
       record            : 'Enregistrer',
       import            : 'Importer',
@@ -18,7 +19,7 @@ export default {
       settings          : 'Settings',
       search            : 'Poser une question',
       searchHint        : 'Ou développez un sujet',
-      authError         : 'Désolé, quelque chose s\'est mal passé avec l\'authentification, veuillez vérifier votre clé API',
+      authError         : 'Erreur: {{statusCode}}\n\nDésolé, quelque chose s\'est mal passé avec l\'authentification, veuillez vérifier votre clé API & modèle',
       comingSoon        : 'bientôt disponible',
       donate            : 'Faire un don de {{name}}',
       donateCopy        : 'Adresse {{name}} copié dans le presse-papier',
@@ -26,11 +27,9 @@ export default {
     },
     searchCompanion: {
       title      : 'Compagnon de recherche',
-      login      : 'Connexion',
       search     : 'Chercher',
       searchHint : 'Développer ce sujet',
       clear      : 'Effacer l\'hitorique des conversations',
-      copy       : 'Copier le résultat',
     },
     conversations: {
       me              : 'moi',
@@ -70,6 +69,7 @@ export default {
       triggerModeAutoHint     : 'Interroger systématiquement le moteur de recherche',
       apiKeyTitle             : 'Clé API',
       apiKeyHint              : 'Votre clé API OpenAI',
+      model                   : 'Modèle',
     }
   }
 };

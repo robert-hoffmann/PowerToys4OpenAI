@@ -8,7 +8,7 @@
     "description" : "shortName"
   },
   "description": {
-    "message"     : "Productivity tools for OpenAI API's",
+    "message"     : "OpenAI API 的生产力工具",
     "description" : "description"
   }
 }

@@ -5,6 +5,7 @@ export const translation = {
     save              : 'global.save',
     close             : 'global.close',
     edit              : 'global.edit',
+    copy              : 'global.copy',
     play              : 'global.play',
     record            : 'global.record',
     import            : 'global.import',
@@ -25,11 +26,9 @@ export const translation = {
   },
   searchCompanion: {
     title      : 'searchCompanion.title',
-    login      : 'searchCompanion.login',
     search     : 'searchCompanion.search',
     searchHint : 'searchCompanion.searchHint',
     clear      : 'searchCompanion.clear',
-    copy       : 'searchCompanion.copy',
   },
   conversations: {
     me              : 'conversations.me',
@@ -68,6 +67,7 @@ export const translation = {
     triggerModeAuto         : 'searchSettings.triggerModeAuto',
     triggerModeAutoHint     : 'searchSettings.triggerModeAutoHint',
     apiKeyTitle             : 'searchSettings.apiKeyTitle',
-    apiKeyHint              : 'searchSettings.apiKeyHint'
+    apiKeyHint              : 'searchSettings.apiKeyHint',
+    model                   : 'searchSettings.model',
   }
 };

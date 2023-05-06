@@ -15,12 +15,13 @@ Is intended for power users in the office
 It's optimized for speed, by running locally in your browser
 (no server costs)
 
-The use of this extension will require having your own API key, which can be directly obtained from OpenAI by registering and visiting their developer dashboard.
+The use of this extension will require having your own API key, which can be directly obtained from OpenAI by registering and visiting their developer dashboard
 
 Manage your API keys by visiting:
 https://platform.openai.com/account/api-keys
 
-Pricing is around $0.002 per 750 words, or $1 for the equivalent content of a book of 1000 pages (for the gpt-3.5-turbo model)
+Pricing is around $0.002 per 750 words, or $1 for the equivalent content of a book of 1000 pages
+(for the gpt-3.5-turbo model)
 
 -----------
 Stay tuned:

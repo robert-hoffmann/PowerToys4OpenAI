@@ -15,12 +15,13 @@ Il est destiné aux utilisateurs avancés au bureau
 Il est optimisé pour la vitesse, en s'exécutant localement dans votre navigateur
 (sans coût de serveur)
 
-Pour utiliser cette extension, vous aurez besoin de votre propre clé API qui peut être obtenue directement auprès d'OpenAI en vous inscrivant et en visitant le tableau de bord du développeur.
+Pour utiliser cette extension, vous aurez besoin de votre propre clé API qui peut être obtenue directement auprès d'OpenAI en vous inscrivant et en visitant le tableau de bord du développeur
 
 Gérez vos clés API en visitant:
 https://platform.openai.com/account/api-keys
 
-Le prix est d'environ $0,002 pour 750 mots, ou $1 pour le contenu équivalent d'un livre de 1000 pages.
+Le prix est d'environ $0,002 pour 750 mots, ou $1 pour le contenu équivalent d'un livre de 1000 pages
+(pour le modèle gpt-3.5-turbo)
 
 -----------
 Restez informé:

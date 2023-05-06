@@ -18,7 +18,7 @@ export default {
       settings          : 'Настройки',
       search            : 'Введи вопрос',
       searchHint        : 'Или раскрой тему',
-      authError         : 'Что-то не так с аутентификацией, проверьте свой API ключ.',
+      authError         : 'Ошибка: {{statusCode}}\n\nЧто-то не так с аутентификацией, проверьте ваш API ключ и модел.',
       comingSoon        : 'скоро',
       donate            : 'Пожертвовать {{name}}',
       donateCopy        : '{{name}} адрес скопирован в буфер обмена',
@@ -70,7 +70,8 @@ export default {
       triggerModeAuto         : 'Автоматически',
       triggerModeAutoHint     : 'Регулярно опрашивать поиск',
       apiKeyTitle             : 'API Ключ',
-      apiKeyHint              : 'Ваш ключ OpenAI API'
+      apiKeyHint              : 'Ваш ключ OpenAI API',
+      model                   : 'Модель',
     }
   }
-};
+}
