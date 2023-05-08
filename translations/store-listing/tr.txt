@@ -1,0 +1,28 @@
+PowerToys for OpenAI™, resmi OpenAI™ API'si aracılığıyla ChatGPT işlevselliği sağlar
+
+Ofiste güç kullanıcıları için tasarlanmıştır:
+
+* Arama Eşlikçisi arama motoru sonuçlarıyla entegre edilir
+* Konuşma Yöneticisi, geçmiş yönetimiyle tam bir sohbet arayüzüdür
+* Profiller, modelin yanıt türünü ince ayar yapmanızı sağlar
+* Token sayısını görüntüleyin
+* Konuşma fiyatlandırmasını görüntüleyin
+* Sonuçları panoya kopyalama
+* Markdown işaretleme desteği
+* Konuşma tanıma desteği
+* ve daha fazlası ;-)
+
+Hız için optimize edilmiştir, tarayıcınızda yerel olarak çalışarak
+(sunucu maliyeti yok)
+
+Bu uzantının kullanımı, OpenAI'den doğrudan API anahtarınızın olması gerektirir, bu anahtar kayıt olmanız ve geliştirici panosunu ziyaret etmenizle doğrudan OpenAI'den elde edilebilir.
+
+API anahtarlarınızı yönetmek için şurayı ziyaret edin:
+https://platform.openai.com/account/api-keys
+
+Fiyatlandırma, 750 kelime başına yaklaşık 0,002 $ veya 1000 sayfalık bir kitaba eşdeğer olan içerik için 1 $ civarındadır
+(gpt-3.5-turbo modeli için)
+
+-----------
+Güncel kalmaya devam edin:
+https://twitter.com/itechnologynet
