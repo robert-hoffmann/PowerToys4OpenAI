@@ -1,6 +1,6 @@
 ### Configuration file for detecting sites
 
-This file holds all the information needed to inject the Search Companion into a site and how it should be injected
+This file holds all the information needed to inject the Search Companion into a site and *how* it should be injected
 
 **Walkthrough:**
 
@@ -13,3 +13,5 @@ This file holds all the information needed to inject the Search Companion into a
     - any classes to add
     - any styles to apply
       - this is how we make sure padding, etc is ok
+
+*Maybe in a future version we can add this directly to the interface*
