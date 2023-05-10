@@ -1,4 +1,4 @@
-## Version: 0.2.5 (unreleased)
+## Version: 0.2.5 (pending app store validation)
 * Possibility to display Search Companion on other sites as a sidebar (new)
 * Added word count to messages in Conversation Manager (new)
 * Added copy conversation to clipboard in conversation list (new)
