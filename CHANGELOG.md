@@ -1,3 +1,13 @@
+## Version: 0.2.5 (unreleased)
+* Possibility to display Search Companion on other sites as a sidebar (new)
+* Added word count to messages in Conversation Manager (new)
+* Added copy conversation to clipboard in conversation list (new)
+* ALT+C now sends any selected text to the conversation manager (new)
+* Now translated into 10 languages (new)
+* Added search engine support for: Yahoo, Baidu, Yandex, Naver, SearX (new)
+  * You can also just activate the sidebar for any unsupported site
+* Lots of UI tweaks and code refactorings (enhancement)
+
 ## Version: 0.2.2
 * Fixed a problem where the search companion would not be properly displayed (fix)
 * Move notifications to bottom right (enhancement)
