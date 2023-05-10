@@ -21,7 +21,7 @@ Verwalten Sie Ihre API-Schlüssel, indem Sie besuchen:
 https://platform.openai.com/account/api-keys
 
 Der Preis liegt bei etwa 0,002 USD pro 750 Wörter oder 1 USD für den Inhalt eines Buches mit 1000 Seiten
-(für das Gpt-3.5-Turbo-Modell)
+(für das Gpt-3.5-Turbo-Model)
 
 -----------
 Bleiben Sie dran:
