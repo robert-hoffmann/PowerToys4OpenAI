@@ -1,4 +1,4 @@
-### How to translate
+### How to translate (or fix a typo)
 
 * **i18n/en/index.ts** contains all the english translations
 * **i18n/fr/index.ts** contains all the french translations
