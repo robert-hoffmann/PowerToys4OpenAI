@@ -54,6 +54,8 @@ Get from Edge Store | Get from Chrome Store
 * Copy results to clipboard
 * Markdown rendering support
 * Speech recognition support
+* Add a sidebar to any site
+* Fully translated into 10 languages
 
 ---
 
