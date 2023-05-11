@@ -43,9 +43,9 @@ Get from Edge Store | Get from Chrome Store
 </table>
 
 <p align="center">
-<a href="https://github.com/sponsors/robert-hoffmann" target="_self">
-  <img src="https://user-images.githubusercontent.com/5472296/237694754-66c40c2e-08a0-40e2-a2d4-cafa68361d9f.jpg"/>
-</a>
+  <a href="https://github.com/sponsors/robert-hoffmann" target="_self">
+    <img src="https://user-images.githubusercontent.com/5472296/237694754-66c40c2e-08a0-40e2-a2d4-cafa68361d9f.jpg"/>
+  </a>
 </p>
 
 ---
