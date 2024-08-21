@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "editorconfig.editorconfig",
+    "vue.volar",
+    "bladnman.auto-align",
+    "gruntfuggly.todo-tree",
+    "britesnow.vscode-toggle-quotes",
+    "wix.vscode-import-cost"
+  ],
+  "unwantedRecommendations": [
+    "octref.vetur",
+    "hookyqr.beautify",
+    "dbaeumer.jshint",
+    "ms-vscode.vscode-typescript-tslint-plugin"
+  ]
+}

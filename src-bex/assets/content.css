@@ -1,0 +1,58 @@
+/* Global CSS used within your BEX. This is not preprocessed so this has to be pure CSS. */
+div#ptoia-companion-container {
+  border-width  : 1px;
+  border-style  : solid;
+  border-color  : initial;
+  border-image  : initial;
+  border-radius : 8px;
+  padding       : 0;
+  margin-bottom : 10px;
+
+  color            : rgb(0, 0, 0);
+  background-color : rgb(255, 255, 255);
+  border-color     : rgb(218, 220, 224);
+}
+div#ptoia-companion-container.ptoia-companion-sidecontent {
+  margin-left   : 30px;
+}
+
+/* #region ---------------- contextMenu ---------------- */
+div#ptoia-context-menu {
+  display : none;
+
+  position : absolute;
+  z-index  : 9999999;
+  top      : 0;
+  left     : 0;
+
+  border: 1px solid black;
+}
+div.ptoia-context-menu-item {
+  font-size  : 14px;
+  font-family: 'Roboto';
+
+  display          : block;
+  background-color : white;
+  color            : black;
+  cursor           : pointer;
+
+  padding          : 5px;
+  height           : 25px;
+  width            : 250px;
+}
+
+div.ptoia-context-menu-item {
+  border-top: 1px solid black;
+}
+div.ptoia-context-menu-item:first-child {
+  border-top: none;
+}
+
+div.ptoia-context-menu-item:hover {
+  background-color: lightgray;
+}
+
+.ptoia-sidebar-closed {
+  width: 10px !important;
+}
+/* #endregion ------------- contextMenu ---------------- */

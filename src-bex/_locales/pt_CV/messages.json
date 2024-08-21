@@ -1,0 +1,14 @@
+{
+  "name": {
+    "message"     : "PowerToys for OpenAI ™",
+    "description" : "name"
+  },
+  "shortName": {
+    "message"     : "PowerToys",
+    "description" : "shortName"
+  },
+  "description": {
+    "message"     : "Ferramentas de produtividade para APIs do OpenAI",
+    "description" : "description"
+  }
+}

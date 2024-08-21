@@ -1,0 +1,26 @@
+// app global css in SCSS form
+/* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: auto;
+    scrollbar-color: #99141d #ffffff;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 16px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #ffffff;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #99141d;
+    border-radius: 10px;
+    border: 2px solid #ffffff;
+  }
+
+  .text-underline {
+    text-decoration: underline;
+  }
