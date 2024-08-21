@@ -3,8 +3,8 @@
 * **i18n/en/index.ts** contains all the english translations
 * **i18n/fr/index.ts** contains all the french translations
 * **i18n/types.ts** is used in the application to provide **strongly typed** translations, instead of using *magic strings*
-* **store-listing** contains the translations for the app store (full description)
-* **_locales contains** translations for the for the app store (name, title, short description)
+* **_docs/store-listing** contains the translations for the app store (full description)
+* **src-bex/_locales contains** translations for the for the app store (name, title, short description)
 
 
 #### To add a translation, you must
